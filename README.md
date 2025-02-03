@@ -1,5 +1,4 @@
 # Poker-Club-Website
-Here's a **README.md** file for your Poker Club Leaderboard project:  
 
 ---
 
