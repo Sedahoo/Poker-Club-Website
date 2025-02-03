@@ -1,7 +1,5 @@
 # Poker-Club-Website
 
----
-
 # 🃏 Poker Club Leaderboard  
 
 A web application to track and rank poker players based on game results. Built with **Express.js, MongoDB, React.js, and WebSockets** for real-time updates.  
