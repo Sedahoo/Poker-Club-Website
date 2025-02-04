@@ -84,7 +84,7 @@ npm start
 5. Open a Pull Request  
 
 ## 📜 License  
-MIT License © 2025 [Your Name]  
+MIT License © 2025 Sedahoo 
 
 ---
 
